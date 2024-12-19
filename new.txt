@@ -1,0 +1,2 @@
+it is nothing new just trying to make a file first in local system and getting git init then puushing it to 
+github.
