@@ -1,4 +1,4 @@
 it is nothing new just trying to make a file first in local system and getting git init then puushing it to 
 github.
 just casually adding some text as feature1
-thinking of adding dropdown
+so thinking of adding dropdown
